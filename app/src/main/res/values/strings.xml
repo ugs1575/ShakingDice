@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">ShakingDice</string>
+    <string name="action_settings">Settings</string>
+    <string name="shaking_dice">Shaking Dice</string>
+    <string name="play">Play</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="setting">Setting</string>
+    <string name="ranking">Ranking</string>
+    <string name="question">Question</string>
+    <string name="sum">X = </string>
+    <string name="next_question">Next Question</string>
+    <string name="user_name">User Name</string>
+    <string name="let_s_start_the_game">Let\'s Start the Game !</string>
+    <string name="please_set_the_user_name">Please Set the User Name and User Picture</string>
+    <string name="result">Congratuation ! \n This is your score</string>
+    <string name="twitter">I want to share my score !</string>
+
+    <string name="authorize">authorize</string>
+    <string name="login_instructions">Hello Hayley~</string>
+
+    <string name="twitter_callback">http://crunchycodes.net</string>
+    <string name="twitter_consumer_key">YDBBJkMBbmgBksbPg0OqBpXs3</string>
+    <string name="twitter_consumer_secret">3C8yPMWaCHQJes61wi3lqy665xfAB4el56jJ3ddENdCVFpQzdq
+</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+    <string name="hello">Hello </string>
+    <string name="share">Share</string>
+    <string name="share_instructions">share_instructions</string>
+    <string name="howtoplay_intro">
+        Hello friend~ Welcome to \'Shaking Dice\' \n\n
+        Before you start the game, you can set the user name and image at the login page.\n\n
+        There are 5 questions in this game.\n\n
+        When you start the game, two dices will be displayed.\n\n
+        If you shack your phone to left or right, two dices will be rolled and sum of two dice numbers will be displayed as X.\n\n
+        When you look at the question, each qustion includes X. So, you can solve the quesion by putting sum of two dice numbers to X.\n\n
+        Each question have different score (1 ~ 5 score) and level of difficulty.\n\n
+        Also, you must enter the answer as the integer type, NOT DECIMAL type.\n\n
+        After finish 5 questions, your total score will be displayed. Also, you can share your score to your twitter account!\n\n
+        Through the setting button, you can choose the background music and you can see the ranking through the ranking button.\n\n
+        Now, Are you ready to play ??\n\n
+    </string>
+    <string name="backMain">Back to Main Screen</string>
+    <string name="background_music">Choose the background music !</string>
+    <string name="k_pop">Default Music (K-POP)</string>
+    <string name="pop_song">Pop Song</string>
+    <string name="pop2">Pop Song 2</string>
+    <string name="music_pause">Pause</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <font android:font="@font/bungeeshade_regular" />
+    <font android:font="@font/orbitron_black" />
+    <font android:font="@font/orbitron_bold" />
+    <font android:font="@font/orbitron_medium" />
+    <font android:font="@font/orbitron_regular" />
+</font-family>
